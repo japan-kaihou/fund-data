@@ -46,6 +46,12 @@
           "asset": "TOPIX(1306連動ETF)",
           "side": "買う",
           "amount": 1000
+        },
+        {
+          "date": "2026-11-05",
+          "asset": "オルカン(ACWI代用)",
+          "side": "買う",
+          "amount": 150
         }
       ]
     }
