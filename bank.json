@@ -36,6 +36,11 @@
           "amount": 1000
         }
       ]
+    },
+    "いぶき": {
+      "salt": "6e6c7957fd5e4f57",
+      "pin_hash": "67612182e4b39791341f7453872f60a2f8ba4d9ab24b9afef8ad834bb9c58215",
+      "trades": []
     }
   }
 }
