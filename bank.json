@@ -54,6 +54,13 @@
           "side": "売る",
           "amount": 0,
           "all": true
+        },
+        {
+          "date": "2026-11-06",
+          "asset": "TOPIX(1306連動ETF)",
+          "side": "売る",
+          "amount": 0,
+          "all": true
         }
       ]
     },
