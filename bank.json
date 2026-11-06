@@ -61,6 +61,12 @@
           "side": "売る",
           "amount": 0,
           "all": true
+        },
+        {
+          "date": "2022-11-07",
+          "asset": "オルカン(ACWI代用)",
+          "side": "買う",
+          "amount": 1000
         }
       ]
     },
