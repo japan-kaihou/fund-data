@@ -1,0 +1,9 @@
+{
+  "accounts": {
+    "あか": {
+      "salt": "4ead13be0f629cd2",
+      "pin_hash": "958c5a1afb8e0c1da7115909c8d44f679f4f40b7c6f95c5ade0b5789a6f7af9b",
+      "trades": []
+    }
+  }
+}
