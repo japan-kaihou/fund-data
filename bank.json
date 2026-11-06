@@ -86,6 +86,12 @@
           "side": "売る",
           "amount": 0,
           "all": true
+        },
+        {
+          "date": "2023-11-01",
+          "asset": "オルカン(ACWI代用)",
+          "side": "買う",
+          "amount": 1000
         }
       ]
     },
